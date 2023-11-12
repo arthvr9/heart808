@@ -5,13 +5,12 @@
 <a href="https://twitter.com/heartzjnhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heartzjnhq" height="30" width="40" /></a>
 </p>
 
-<details>
 
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="heart808's Github Stats" src="https://github-readme-stats-lime-theta-94.vercel.app/api?username=heart808&show_icons=true&theme=transparent" />
 
-</details>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
