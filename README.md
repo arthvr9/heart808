@@ -8,7 +8,7 @@
 
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="heart808's Github Stats" src="https://github-readme-stats-lime-theta-94.vercel.app/api?username=heart808&show_icons=true&theme=transparent&hideborder=true" />
+  <img align="left" alt="heart808's Github Stats" src="https://github-readme-stats-lime-theta-94.vercel.app/api?username=heart808&show_icons=true&theme=transparent&hide_border=true" />
 
 
 
